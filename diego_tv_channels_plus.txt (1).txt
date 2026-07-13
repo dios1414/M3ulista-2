@@ -294,3 +294,126 @@ http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QkVTZVJvNDZ5Ti94VGpSK2szY
 #EXTINF:-1 tvg-id="" tvg-name="DSports | CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports | CO ❆
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1grY1pmcXRLakkrQVdLUC9oWEVXdz0
 #EXTINF:-1 tvg-id="" tvg-name="DSports + 2 CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports + 2 CO ❆
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Minions y Monstruos (CAM) 2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg" group-title="▶️ CINE 2026",Minions y Monstruos (CAM) 2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRMU9ic3F2ZlR1dC9jSi9OaWFHSmgxZVdrbFNKZ2FURUlqWXFKYjJOck9jQQ
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg" group-title="▶️ CINE 2026",Toy Story 5 (BR-S) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRMU9ic3F2ZlR1dC9jSi9OaWFHSmgxZjZuOWFEaCt5bE9QY0ZCYUs3dGNGbw
+#EXTINF:-1 tvg-id="" tvg-name="Minions y Monstruos (CAM) 2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg" group-title="▶️ CINE 2026",Minions y Monstruos (CAM) 2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRMU9ic3F2ZlR1dC9jSi9OaWFHSmgxZXBWN08yWVRLMnBIWUFrT2tLeUJKcA
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="▶️ CINE 2026",El diablo viste a la moda 2 (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRMU9ic3F2ZlR1dC9jSi9OaWFHSmgxYzdta3VWK1FNdkVwM0ZnaUZ3WmtLVg
+#EXTINF:-1 tvg-id="" tvg-name="Torrente Presidente (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wyiEiOS8gYyslveyYwlCKB9XYt.jpg" group-title="▶️ CINE 2026",Torrente Presidente (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRK3pPd2ZITE9rdHVzR1pXUzNHNjlxQy9DUU9rNUhkVHpjb1lqSFVQZitiZw
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diEz9JG1UHEDTN0Yeri5sJZD7PL.jpg" group-title="▶️ CINE 2026",Supergirl (CAM) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpYXdlQ3ZXYW5tL2FnNzJFYmNVK1d4dQ
+#EXTINF:-1 tvg-id="" tvg-name="Las ovejas detectives (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iryjE7zrVxML5UM5vCPJGtKYvWC.jpg" group-title="▶️ CINE 2026",Las ovejas detectives (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWVhNSUlucFRPWncwVjN5VzZETjRoZQ
+#EXTINF:-1 tvg-id="" tvg-name="Obsesion (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg" group-title="▶️ CINE 2026",Obsesion (BR-S) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpYUlBd0t5d3RycGJKSU5EL2ZqRjR4Yw
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg" group-title="▶️ CINE 2026",Toy Story 5 (BR-S) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpYjVqV3pDWTV0RVF0Mnl1SCtZSmYzSQ
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Mandalorian and Grogu (BR-S) (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="▶️ CINE 2026",Star Wars: The Mandalorian and Grogu (BR-S) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWVZCRHpjRU1jcDJHZE1MTVlhaEpkcA
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Digital Circus: El Ultimo Acto (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufMZpIbrDpcUIBVYUUo4PKaMovC.jpg" group-title="▶️ CINE 2026",The Amazing Digital Circus: El Ultimo Acto (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpYXRHa2YvMkl2OGZ6UFhMY1pqMDdlcQ
+#EXTINF:-1 tvg-id="" tvg-name="Hokum: La maldicion de la bruja (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/thRJXNSUsqSNJALSKmXYNWSijB5.jpg" group-title="▶️ CINE 2026",Hokum: La maldicion de la bruja (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWjVPUldBNG5Hb21ZakdDRWFMa2xNVA
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWWfKcQDldLgHQwXWakfE16D5vr.jpg" group-title="▶️ CINE 2026",Toy Story 5 (CAM) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWnZOUHJjVlA0WDI5QzIxVTNrT3I5Mw
+#EXTINF:-1 tvg-id="" tvg-name="Scary Movie: Terrorificamente incorrecta (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg" group-title="▶️ CINE 2026",Scary Movie: Terrorificamente incorrecta (BR-S) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWklCTC9JbXZvY1dETHkzc3dRSWsyTQ
+#EXTINF:-1 tvg-id="" tvg-name="Scary Movie: Terrorificamente incorrecta (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg" group-title="▶️ CINE 2026",Scary Movie: Terrorificamente incorrecta (CAM) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bUFDVmFCcUt4ZkZ1UVFNcUYyeWtrYg
+#EXTINF:-1 tvg-id="" tvg-name="El dia de la revelacion (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pigU63pWFuXkq2MBc865GpFG4UP.jpg" group-title="▶️ CINE 2026",El dia de la revelacion (CAM) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85a0Ezbjc1NVBIUWhyYk54c0FoOVd6WQ
+#EXTINF:-1 tvg-id="" tvg-name="Amos del Universo (BR-S) (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cDw6Qp3aNZ5x8hWZl35nR2qvMqk.jpg" group-title="▶️ CINE 2026",Amos del Universo (BR-S) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85a0NMVXR0TU1GTTRLZWNla1Y5RzZiZw
+#EXTINF:-1 tvg-id="" tvg-name="Obsesion (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg" group-title="▶️ CINE 2026",Obsesion (CAM) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bWFYQmtyTkxZOUltdzMyU2ErL2lsSQ
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="▶️ CINE 2026",Mortal Kombat II (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bEFwWW1WanZnemZmVEZFZTZZbUgxZA
+#EXTINF:-1 tvg-id="" tvg-name="Michael (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="▶️ CINE 2026",Michael (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bm1HT1RDZUJqYWsvU1BRa3h2OThCRg
+#EXTINF:-1 tvg-id="" tvg-name="Amos del Universo  (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDw6Qp3aNZ5x8hWZl35nR2qvMqk.jpg" group-title="▶️ CINE 2026",Amos del Universo  (CAM) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bGg5NWsyVi8wTUF5SGlZMDNYUXJXdQ
+#EXTINF:-1 tvg-id="" tvg-name="Zona de riesgo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3On2pUX6KRJwI8Fp7xqJkKQdIv.jpg" group-title="▶️ CINE 2026",Zona de riesgo (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bC9RcUpzYlB6WTB4cTZNOFlEMDNTbg
+#EXTINF:-1 tvg-id="" tvg-name="En la zona gris (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfgquGqeT6DtdsIzPPzTLRABBy0.jpg" group-title="▶️ CINE 2026",En la zona gris (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bmNVNmNib1pQYVVMa3ArWVVCalUrUA
+#EXTINF:-1 tvg-id="" tvg-name="Backrooms: Sin salida (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg" group-title="▶️ CINE 2026",Backrooms: Sin salida (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bkR4Tld2U0dJdnVIcmlocnFLSEE3Tg
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian and Grogu (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="▶️ CINE 2026",The Mandalorian and Grogu (CAM) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN3dGSW1SUjNtNmIveFIyZjBxUkx1dWpBYk1qUnUzL2FudExSc2lsRWMzVg
+#EXTINF:-1 tvg-id="" tvg-name="Scary Movie: Terroríficamente incorrecta (CAM) (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iYQnvP1DrgSaoSbYPuNCPr3TRqk.jpg" group-title="▶️ CINE 2026",Scary Movie: Terroríficamente incorrecta (CAM) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN3dGSW1SUjNtNmIveFIyZjBxUkx1dkRidEF1cUZYdnc1cm1WbTlxRFJZbw
+#EXTINF:-1 tvg-id="" tvg-name="La posesion de la momia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="▶️ CINE 2026",La posesion de la momia (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRd0VWbUhXQW0wR1lXQzRYRHZ2aDlsYUdJVnpKQzdvOXFWVU9KN0ttbnUwTg
+#EXTINF:-1 tvg-id="" tvg-name="El Drama (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg" group-title="▶️ CINE 2026",El Drama (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRd0VWbUhXQW0wR1lXQzRYRHZ2aDlsYWUzU0s5MXdvMTl0RXk3VXdFTWVhTg
+#EXTINF:-1 tvg-id="" tvg-name="La posesion de la momia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="▶️ CINE 2026",La posesion de la momia (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNXNxUHFra3hvOEdGeWZiaVNnbkFpbkpBbmNDS3l4YThoYUsxaTBtVkRvRw
+#EXTINF:-1 tvg-id="" tvg-name="Kraken (subtitulada) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ExwomWgJoXBdY3u1Otiw2zY9wZ.jpg" group-title="▶️ CINE 2026",Kraken (subtitulada) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNXNxUHFra3hvOEdGeWZiaVNnbkFpbWpvQjhDVFQ2M0VJdWVSZE1XV0lpQw
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Galaxy: La pelicula (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BafQnaU3U0PL7pkDBaTmCA9EHE.jpg" group-title="▶️ CINE 2026",Super Mario Galaxy: La pelicula (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNXNxUHFra3hvOEdGeWZiaVNnbkFpbHVjVlo2dmhHZmpVbmMvcTBtZ0E4Tw
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg" group-title="▶️ CINE 2026",Proyecto Fin del Mundo (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRei9kUFdqRE5qc0dCYjJuai9lSjZzYnkzbkVVMXU5cEJuS1hJME1hMStFTg
+#EXTINF:-1 tvg-id="" tvg-name="Boda sangrienta 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQV0X354U142Cao8Be6eUt38spS.jpg" group-title="▶️ CINE 2026",Boda sangrienta 2 (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRei9kUFdqRE5qc0dCYjJuai9lSjZzYi9UV0IrRXE0QUdzK00za2tIcDZpMA
+#EXTINF:-1 tvg-id="" tvg-name="El Drama (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg" group-title="▶️ CINE 2026",El Drama (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhROFRnTG4zNGwxOWdTZWtMa09RdVQvdVFOaFp0REVHU0FudHptWWpuZ0o3Ng
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (HDTS) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="▶️ CINE 2026",El diablo viste a la moda 2 (HDTS) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhROW12aHc1b3FrZG5Sd1BQMDFFNXJrUUhwaGNacXk1d0lWK1JtWG41NDRYOQ
+#EXTINF:-1 tvg-id="" tvg-name="Terror en Silent Hill: Regreso al infierno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4EiDq1lXEEJIc439BVzdreQZEX.jpg" group-title="▶️ CINE 2026",Terror en Silent Hill: Regreso al infierno (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhROXl2Rk8vS1A0bmlIMEpFMi8vUHN6Q3kxYU5DNVhLNGFDNHNIditJZDA0Qw
+#EXTINF:-1 tvg-id="" tvg-name="Los Extraños: Capítulo 3 (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3XWJwBfa4zzki6rkiBVu6vUX3aU.jpg" group-title="▶️ CINE 2026",Los Extraños: Capítulo 3 (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwamVWcWdYbDlYUDR0RUswWEZYaEM2SA
+#EXTINF:-1 tvg-id="" tvg-name="Exterminio: El templo de huesos (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6yUxfwcDYR0RRfbxwGA7rhwreWU.jpg" group-title="▶️ CINE 2026",Exterminio: El templo de huesos (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaEVzYnR2VWVJSG1VajdWR3dQckI4cA
+#EXTINF:-1 tvg-id="" tvg-name="Sin piedad (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg" group-title="▶️ CINE 2026",Sin piedad (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaTh2LzZ4OEFVUVB2eGNPd3BMR25rdg
+#EXTINF:-1 tvg-id="" tvg-name="La Empleada (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title="▶️ CINE 2026",La Empleada (2025)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwZzloOEZUY2JKMFExRVpxTjQ0SS9PSg
+#EXTINF:-1 tvg-id="" tvg-name="Ballena Asesina (Subtitulada) (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg" group-title="▶️ CINE 2026",Ballena Asesina (Subtitulada) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaUJhai85RHRmalQvQTNQOE0yRDcxNQ
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja: En busca de los pantalones cuadrados (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s19EZefg4g1EOWx0zA11tQJjHe2.jpg" group-title="▶️ CINE 2026",Bob Esponja: En busca de los pantalones cuadrados (2025)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwallhYVZUSm42MDlYSjRnOXZXVVFabQ
+#EXTINF:-1 tvg-id="" tvg-name="Primate (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg" group-title="▶️ CINE 2026",Primate (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaDVwbVpBWmxoOU9COVF6b3o0Z3g2Uw
+#EXTINF:-1 tvg-id="" tvg-name="El Dia del Fin del Mundo: Migracion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="▶️ CINE 2026",El Dia del Fin del Mundo: Migracion (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwamZLcXlaQjM5TDY2ZEZwQXhKb3J3Mw
+#EXTINF:-1 tvg-id="" tvg-name="Song Sung Blue: Sueño inquebrantable (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Dv7zkEzH7xLFE9Mj87kS1d37iq.jpg" group-title="▶️ CINE 2026",Song Sung Blue: Sueño inquebrantable (2025)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaGxFS3U1dUdzVDQzU2RvWTNLak85YQ
+#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg" group-title="▶️ CINE 2026",¡La novia! (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReWd6bmx4a04zS0JqMzRIRjBXbGoxYk1yUE1iUTk1KzZUOE52aTdZVTk5dg
+#EXTINF:-1 tvg-id="" tvg-name="Jugada maestra (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kI6OIy47E7hr9OOESV1DUDuBkqT.jpg" group-title="▶️ CINE 2026",Jugada maestra (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNzB0VUdlWlNHbHl4KzRnaEtrNDY4aFV4WVZCeHg4cVpiMFZyeUFLTkh6SA
+#EXTINF:-1 tvg-id="" tvg-name="“Cumbres Borrascosas” (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="▶️ CINE 2026",“Cumbres Borrascosas” (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNzB0VUdlWlNHbHl4KzRnaEtrNDY4aDA0U09PaWllbmlHSjl4U0VhTDlpNQ
+#EXTINF:-1 tvg-id="" tvg-name="Caminos del crimen (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miotpWL3RXeTvLJnkhaoWcbXvJf.jpg" group-title="▶️ CINE 2026",Caminos del crimen (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNzB0VUdlWlNHbHl4KzRnaEtrNDY4Z3VtSHhmckFrb2docHFEVVZQYXkvSQ
+#EXTINF:-1 tvg-id="" tvg-name="Scream 7 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XhV5Sk7w4h2tCNvXovkFfTNRli.jpg" group-title="▶️ CINE 2026",Scream 7 (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNzB0VUdlWlNHbHl4KzRnaEtrNDY4aUZtTnlsL0NlT1ltU3kxaGVMcHQrUg
+#EXTINF:-1 tvg-id="" tvg-name="Jugada maestra (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kI6OIy47E7hr9OOESV1DUDuBkqT.jpg" group-title="▶️ CINE 2026",Jugada maestra (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XMU9kY09JMnQxK0F4YjIybndMMTNIWg
+#EXTINF:-1 tvg-id="" tvg-name="GOAT: La cabra que cambio el juego (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dH7p6eAfzDElYYFKfYWpf9xlsG.jpg" group-title="▶️ CINE 2026",GOAT: La cabra que cambio el juego (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XMzZoT2xRbmhLdlF3YkdTZmJTWUt4Lw
+#EXTINF:-1 tvg-id="" tvg-name="Jugada maestra (Subt.) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kI6OIy47E7hr9OOESV1DUDuBkqT.jpg" group-title="▶️ CINE 2026",Jugada maestra (Subt.) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XM0RKbkRTVnF1ZjZtS0RFeWdUSXhZZg
+#EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg" group-title="▶️ CINE 2026",¡Ayuda! (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XMExrbkVWekdZSndjZTZGTkovWUhldg
+#EXTINF:-1 tvg-id="" tvg-name="El Dia del Fin del Mundo: Migracion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuKUs5efZ5rPfJRbOJtJXaqLNk0.jpg" group-title="▶️ CINE 2026",El Dia del Fin del Mundo: Migracion (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XMlQ3cTRNZ0RqUVlMeC9WWFhsVFFrSA
+#EXTINF:-1 tvg-id="" tvg-name="Hoppers: Operacion castor (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg" group-title="▶️ CINE 2026",Hoppers: Operacion castor (BR-S) (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReGM1T0Izb2NaMDE1NEo0UEw1ZHNWV05mWGVFNnY0TkFXcGVweHh4dyt5dQ
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Extincion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aioKGmYADqq09GEIY9vPhK5xoza.jpg" group-title="▶️ CINE 2026",Alerta Extincion (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwSXQyY3hsY2Y1TlR1RFRyc1I4T2Fmcg
+#EXTINF:-1 tvg-id="" tvg-name="El Guardian: Ultimo refugio (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="▶️ CINE 2026",El Guardian: Ultimo refugio (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwS2ZtNjNYejcxRW1mWUdFR0FOa3hLMA
+#EXTINF:-1 tvg-id="" tvg-name="El sonido de la muerte (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cApRXj6meulAQMYQrhjfVvZEItl.jpg" group-title="▶️ CINE 2026",El sonido de la muerte (2026)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwSTlsandBa0xYN3FEZWRmS1VxblJxbg
+#EXTINF:-1 tvg-id="" tvg-name="Nuremberg: El juicio del siglo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggYGgsXV7jG42t2UhYx5mWA1tao.jpg" group-title="▶️ CINE 2026",Nuremberg: El juicio del siglo (2025)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwSS9ucHptZXlEMXkvNllMVjVZS2drSA
+#EXTINF:-1 tvg-id="" tvg-name="Marty Supremo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jctiZ1I2p4b6mceR85QxYhgs4Ft.jpg" group-title="▶️ CINE 2026",Marty Supremo (2025)
+http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwS09hODBIRHUyTC9nK2p1bEc0bDl0cw
