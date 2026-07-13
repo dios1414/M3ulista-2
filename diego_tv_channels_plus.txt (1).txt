@@ -1,217 +1,146 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Águila Roja" tvg-logo="" group-title="⭐ 24/7 VARIOS",Águila Roja
-https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al salir de clase" tvg-logo="" group-title="⭐ 24/7 VARIOS",Al salir de clase
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TFVZYTQ4UnFWRmQ5Rk0yeld1aEJXcz0
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Cobra" tvg-logo="" group-title="⭐ 24/7 VARIOS",Alerta Cobra
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TXZOLytJdnhTamw0ZTBUMHZJNTVrVT0
-#EXTINF:-1 tvg-id="" tvg-name="America's Next Top Model" tvg-logo="" group-title="⭐ 24/7 VARIOS",America's Next Top Model
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R0lNNmRyRThUbmI4TEtMaFEzaTJmOD0
-#EXTINF:-1 tvg-id="" tvg-name="Ana y los 7" tvg-logo="" group-title="⭐ 24/7 VARIOS",Ana y los 7
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SjVvK2gwZGVDRGNBWEtNZGk1VDRRND0
-#EXTINF:-1 tvg-id="" tvg-name="Archivos Extraterrestres" tvg-logo="" group-title="⭐ 24/7 VARIOS",Archivos Extraterrestres
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RnJXN1F3eElyZUhYd2lrSk54V3lnbz0
-#EXTINF:-1 tvg-id="" tvg-name="Archivos Forenses op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",Archivos Forenses op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TlZBOTJacHFnVGVTZFZVemtaQndqRT0
-#EXTINF:-1 tvg-id="" tvg-name="Archivos Forenses op2" tvg-logo="" group-title="⭐ 24/7 VARIOS",Archivos Forenses op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R2hJaDVZeUJkckdUR2M2bTFlQll6bz0
-#EXTINF:-1 tvg-id="" tvg-name="Barbie & Friends" tvg-logo="" group-title="⭐ 24/7 VARIOS",Barbie & Friends
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Qnc0SzI3OWFmNlNhMy9OSzJpMktTbz0
-#EXTINF:-1 tvg-id="" tvg-name="Baywatch" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="⭐ 24/7 VARIOS",Baywatch
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TUlFa2NUL0JocEorMDFNMXJGTW92Zz0
-#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="" group-title="⭐ 24/7 VARIOS",Beyblade
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SnhxRmUvYStqb3ZoN0VWa2hGWkRIaz0
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",Bob Esponja op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q2VYN2l0MkdPN3dQTUw1dHF4czFzUT0
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",Bob Esponja op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R1BsZGkyaGF0b2J3UHBnWm85VEpCbz0
-#EXTINF:-1 tvg-id="" tvg-name="Casos de la Dra. Polo" tvg-logo="" group-title="⭐ 24/7 VARIOS",Casos de la Dra. Polo
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RG5nTVVpYzRzajZJQTV3OXZKSUh6QT0
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",Cazador de Homicidas op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TS91MEViVlpCM3NLek9YaGpiZzlucz0
-#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas op2" tvg-logo="" group-title="⭐ 24/7 VARIOS",Cazador de Homicidas op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RFI2WHUyRzYwRjk1OWpGQldlZEdYYz0
-#EXTINF:-1 tvg-id="" tvg-name="Ciudadanos por el mundo" tvg-logo="" group-title="⭐ 24/7 VARIOS",Ciudadanos por el mundo
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QW5NUjBQUU5aZlRaQ0lnR3RVa1hWMD0
-#EXTINF:-1 tvg-id="" tvg-name="Construcciones Asombrosas" tvg-logo="" group-title="⭐ 24/7 VARIOS",Construcciones Asombrosas
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RnFlWG5CV2FPSWN0VFRPanBjb0lCND0
-#EXTINF:-1 tvg-id="" tvg-name="Cops en Español" tvg-logo="" group-title="⭐ 24/7 VARIOS",Cops en Español
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Qm1xeWpLMzJLa3NyN2dxWHdNQVcxST0
-#EXTINF:-1 tvg-id="" tvg-name="Crimen & Historia" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="⭐ 24/7 VARIOS",Crimen & Historia
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S3duN0VUekhNZEJ0cFBNUHp2b0tjND0
-#EXTINF:-1 tvg-id="" tvg-name="Curiosity Animales" tvg-logo="" group-title="⭐ 24/7 VARIOS",Curiosity Animales
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QXRvL1dZMTZ2OFJXZkZUNUZNNjF0TT0
-#EXTINF:-1 tvg-id="" tvg-name="Curiosity Explora" tvg-logo="" group-title="⭐ 24/7 VARIOS",Curiosity Explora
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q2pzUjdNMk5QVTkwMys3NVhGalhOVT0
-#EXTINF:-1 tvg-id="" tvg-name="Curiosity Motores" tvg-logo="" group-title="⭐ 24/7 VARIOS",Curiosity Motores
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TjJ1TW9FQ0pmSUZQclFHaExsMVlCND0
-#EXTINF:-1 tvg-id="" tvg-name="Detective Conan" tvg-logo="" group-title="⭐ 24/7 VARIOS",Detective Conan
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SG5VS05OQTY2cHRLRlpKRmwydHRBWT0
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="" group-title="⭐ 24/7 VARIOS",Dragon Ball Z
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QVNsQmNDdytIcW5LQ3FkdG5yeHVBZz0
-#EXTINF:-1 tvg-id="" tvg-name="El Comisario" tvg-logo="" group-title="⭐ 24/7 VARIOS",El Comisario
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QjQ4WEYxMGZPYjlESnVCSVp6YzhnWT0
-#EXTINF:-1 tvg-id="" tvg-name="El Detective Endeavour" tvg-logo="" group-title="⭐ 24/7 VARIOS",El Detective Endeavour
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Rlk5RFlhK0Y2UkxGZm1xMWc4Z2R1MD0
-#EXTINF:-1 tvg-id="" tvg-name="El encantador de perros op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",El encantador de perros op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UGlKZHJVVDh1ZXZkUWozRUh6cEl4cz0
-#EXTINF:-1 tvg-id="" tvg-name="El Encantador de Perros op2" tvg-logo="" group-title="⭐ 24/7 VARIOS",El Encantador de Perros op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TTFRM2lBYXFKR0tGSjkyczAzaVhXUT0
-#EXTINF:-1 tvg-id="" tvg-name="Embrujadas" tvg-logo="" group-title="⭐ 24/7 VARIOS",Embrujadas
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QkNXNEtJZXJwMnJvM2QvZUhUWmt0RT0
-#EXTINF:-1 tvg-id="" tvg-name="Empeños a lo bestia op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",Empeños a lo bestia op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q2ZNUmw0RS9aR0tUSGpPRmNOSXlKTT0
-#EXTINF:-1 tvg-id="" tvg-name="Empeños a lo bestia op2" tvg-logo="" group-title="⭐ 24/7 VARIOS",Empeños a lo bestia op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SGZxUmNOSTF6RSsrZkJhRnNoNG10MD0
-#EXTINF:-1 tvg-id="" tvg-name="En el punto de mira" tvg-logo="" group-title="⭐ 24/7 VARIOS",En el punto de mira
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RGw4elN2YXE4b2xBdVlkM3dLNDhwYz0
-#EXTINF:-1 tvg-id="" tvg-name="Érase una vez" tvg-logo="" group-title="⭐ 24/7 VARIOS",Érase una vez
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TExJaytvRFFkT1dHa3drNy9pYXRXUT0
-#EXTINF:-1 tvg-id="" tvg-name="Hechiceras" tvg-logo="" group-title="⭐ 24/7 VARIOS",Hechiceras
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SytkSlZ2QnJYV2JsTDE4aXQvWlVTVT0
-#EXTINF:-1 tvg-id="" tvg-name="Hechizada" tvg-logo="" group-title="⭐ 24/7 VARIOS",Hechizada
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1JNVjJuWlVzK25DNmprd2k5M2NqTT0
-#EXTINF:-1 tvg-id="" tvg-name="Heidi" tvg-logo="" group-title="⭐ 24/7 VARIOS",Heidi
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RGVoWWVqRHZvS2dabk1sb3hNVFFDMD0
-#EXTINF:-1 tvg-id="" tvg-name="Hells Kitchen" tvg-logo="" group-title="⭐ 24/7 VARIOS",Hells Kitchen
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TWJMcnFJOVRTSFRvNEdQNDc0RUJEST0
-#EXTINF:-1 tvg-id="" tvg-name="Historias de Ultratumba" tvg-logo="" group-title="⭐ 24/7 VARIOS",Historias de Ultratumba
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R3Z6MWlJcWd0YW0zdXlCNUxQbXpndz0
-#EXTINF:-1 tvg-id="" tvg-name="Kenan y Kel" tvg-logo="" group-title="⭐ 24/7 VARIOS",Kenan y Kel
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SVErbTRENk1jWXdzbnByNGFvMHRmdz0
-#EXTINF:-1 tvg-id="" tvg-name="La Familia del Barrio op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",La Familia del Barrio op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RTNEb3ZEcmhtelR3SnFuMHM3Zmh3OD0
-#EXTINF:-1 tvg-id="" tvg-name="La Familia del Barrio op2" tvg-logo="" group-title="⭐ 24/7 VARIOS",La Familia del Barrio op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RWQ3Vldjdy81Z0FhaFRNK0pTZDFvZz0
-#EXTINF:-1 tvg-id="" tvg-name="La fiebre del Jade" tvg-logo="" group-title="⭐ 24/7 VARIOS",La fiebre del Jade
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TlJuOUxQYWhjaDN0YkFVVE94WkhaVT0
-#EXTINF:-1 tvg-id="" tvg-name="La Selección" tvg-logo="" group-title="⭐ 24/7 VARIOS",La Selección
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S2RtUkNwS3ZOSnkxVS9aaHp4QUlHcz0
-#EXTINF:-1 tvg-id="" tvg-name="Las Tortugas Ninja op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",Las Tortugas Ninja op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SktCVXdjS3d2MDdqZXdzd0gzR3lXbz0
-#EXTINF:-1 tvg-id="" tvg-name="Las Tortugas Ninja op2" tvg-logo="" group-title="⭐ 24/7 VARIOS",Las Tortugas Ninja op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Rjh4L2ZYTE9Jd0I5Vkx2MGswK2x5RT0
-#EXTINF:-1 tvg-id="" tvg-name="Los archivos del FBI op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los archivos del FBI op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Rm5RcGtRcWhyVmVnRGVwNTBtODdLYz0
-#EXTINF:-1 tvg-id="" tvg-name="Los archivos del FBI op2" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los archivos del FBI op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SVRWc3FCT2l1TUJnOTc4WUdXQW1VQT0
-#EXTINF:-1 tvg-id="" tvg-name="Los Asesinatos de Midsomer op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los Asesinatos de Midsomer op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R2VOc0ppSzJuR0crdmVIK1phSDE5dz0
-#EXTINF:-1 tvg-id="" tvg-name="Los Asesinatos de Midsomer op2" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los Asesinatos de Midsomer op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RVZkQXlPblY2RW5tWjM3SDNWMXMwYz0
-#EXTINF:-1 tvg-id="" tvg-name="Los caballeros del Zodiaco" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los caballeros del Zodiaco
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RWxEOG1JNHZvcE5pWG1TNmx3bVZYaz0
-#EXTINF:-1 tvg-id="" tvg-name="Los Gipsy Kings" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los Gipsy Kings
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TGM0OUZiTzRKNW9CdmxNemxPcHJtdz0
-#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Murdoch" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los misterios de Murdoch
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RDR2QStQZVJnSUlIOXFlc0docUlTZz0
-#EXTINF:-1 tvg-id="" tvg-name="Los nuevos detectives" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los nuevos detectives
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S2QySW5ZRWl5QTRYOHhTbUM0RHBHbz0
-#EXTINF:-1 tvg-id="" tvg-name="Los Padrinos Mágicos" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los Padrinos Mágicos
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TGZWZDhxNlF1YmJNQjdYSkJCWnQ4az0
-#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos op1" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los Pitufos op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UENORjh5dFZZMVUvMFZDMkp6Vm9iOD0
-#EXTINF:-1 tvg-id="" tvg-name="Los Pitufos op2" tvg-logo="" group-title="⭐ 24/7 VARIOS",Los Pitufos op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RnRTUk1oRVpvbEMvc3lwK20zZlNGZz0
-#EXTINF:-1 tvg-id="" tvg-name="Lucha Libre AAA" tvg-logo="" group-title="⭐ 24/7 VARIOS",Lucha Libre AAA
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RnRDcjRTM21iTWVsWEZmMXA5YWI0OD0
-#EXTINF:-1 tvg-id="" tvg-name="MacGyver" tvg-logo="" group-title="⭐ 24/7 VARIOS",MacGyver
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T0c2WXdQS3pFWWdPbTl4ZWs0UEFFcz0
-#EXTINF:-1 tvg-id="" tvg-name="Más adrenalina" tvg-logo="" group-title="⭐ 24/7 VARIOS",Más adrenalina
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R29vQXpZVWxtNU4zbzY0dWJvMGE0ST0
-#EXTINF:-1 tvg-id="" tvg-name="MasterChef" tvg-logo="" group-title="⭐ 24/7 VARIOS",MasterChef
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SFpkbFB4YmlsaTdUYTNuUVB4NTdkdz0
-#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio" tvg-logo="" group-title="⭐ 24/7 VARIOS",Mi Bella Genio
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RU9icXBJSG8yOUVUMDNuMVUvQlhmQT0
-#EXTINF:-1 tvg-id="" tvg-name="Mi Coche Clásico" tvg-logo="" group-title="⭐ 24/7 VARIOS",Mi Coche Clásico
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QitYL1V1MjVUT09wYngwd1pVc0RXRT0
-#EXTINF:-1 tvg-id="" tvg-name="Mi Extraña Obsesión" tvg-logo="" group-title="⭐ 24/7 VARIOS",Mi Extraña Obsesión
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QUtuVUZKRGZXMUd2bXpEZCszTzRZST0
-#EXTINF:-1 tvg-id="" tvg-name="Minuto Para Ganar" tvg-logo="" group-title="⭐ 24/7 VARIOS",Minuto Para Ganar
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SEtQSlR6d1NlTndNOW9ROGxkMmIxaz0
-#EXTINF:-1 tvg-id="" tvg-name="Misterios Medicos" tvg-logo="" group-title="⭐ 24/7 VARIOS",Misterios Medicos
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SEtHU0gvMk1aMlFCMXowdVVDaXZkRT0
-#EXTINF:-1 tvg-id="" tvg-name="MTV Con Mi Ex" tvg-logo="" group-title="⭐ 24/7 VARIOS",MTV Con Mi Ex
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RkJkUWZLVXhBS1E2a3kyNi9lNC9sdz0
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="" group-title="⭐ 24/7 VARIOS",Pokémon
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SW16aHFjUHlkVllCN2dYRVRyZWpFaz0
-#EXTINF:-1 tvg-id="" tvg-name="Sí quiero ese vestido" tvg-logo="" group-title="⭐ 24/7 VARIOS",Sí quiero ese vestido
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SHJuQ2tLY2ZVcmorcVVjQXFBdERsTT0
-#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="" group-title="⭐ 24/7 VARIOS",South Park
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TUdHallxTkZ0OTN1ckZYWXZDYjVxdz0
-#EXTINF:-1 tvg-id="" tvg-name="South Park: Colección Cartman" tvg-logo="" group-title="⭐ 24/7 VARIOS",South Park: Colección Cartman
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RkRSTFlxbiswUmw1bFZYQUhTVlQvbz0
-#EXTINF:-1 tvg-id="" tvg-name="South Park: Colección Kenny" tvg-logo="" group-title="⭐ 24/7 VARIOS",South Park: Colección Kenny
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S0czVko1ejZQV3p5Q1RvRG5nNk1BOD0
-#EXTINF:-1 tvg-id="" tvg-name="South Park: Colección Kyle" tvg-logo="" group-title="⭐ 24/7 VARIOS",South Park: Colección Kyle
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QmFZczJzWmhoalp3bldHeXpiTTJhRT0
-#EXTINF:-1 tvg-id="" tvg-name="South Park: Colección Stan" tvg-logo="" group-title="⭐ 24/7 VARIOS",South Park: Colección Stan
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QkZJUG9vNmc4UStyalZzM1pacHBzST0
-#EXTINF:-1 tvg-id="" tvg-name="Televisa Telenovelas" tvg-logo="" group-title="⭐ 24/7 VARIOS",Televisa Telenovelas
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RHM3OTJ4KzljZ0ZNTEkzaWNvRVN0QT0
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Fan (1080p)" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="🎬 | ANIME 24/7",EnerGeek Fan (1080p)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5STJFNUZFT3pRU3p5MUhTSDl0K1pzdz0
-#EXTINF:-1 tvg-id="" tvg-name="Anime Vision (Español)" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="🎬 | ANIME 24/7",Anime Vision (Español)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UHM2clRlTEVIbUxZV2lqNWthMDdROD0
-#EXTINF:-1 tvg-id="" tvg-name="Anime Vision Classics (Español)" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="🎬 | ANIME 24/7",Anime Vision Classics (Español)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TU1pZHFqdjVQMTZqRzY4a1lCZnRycz0
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek (Español)" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="🎬 | ANIME 24/7",EnerGeek (Español)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SmtveWhFYlRVaVlVNUI4Z25GeUtUND0
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime (Español)" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png" group-title="🎬 | ANIME 24/7",Pluto TV Anime (Español)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RmJnamcwb0cycWJaMkVRS1hwdHJlWT0
-#EXTINF:-1 tvg-id="" tvg-name="Naruto (Español)" tvg-logo="https://i.imgur.com/hG8F0RY.png" group-title="🎬 | ANIME 24/7",Naruto (Español)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TlZubERQTHJTMWRtK2lWUlBxbythQT0
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden (Español)" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="🎬 | ANIME 24/7",Naruto Shippuden (Español)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SXJRNVJ3SS9zUWxDU1F6WlhQcGFoZz0
-#EXTINF:-1 tvg-id="" tvg-name="One Piece (Español)" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="🎬 | ANIME 24/7",One Piece (Español)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Sm9zYi9YelVOSkQxQW1XdmpnNjdwdz0
-#EXTINF:-1 tvg-id="" tvg-name="One Piece (Subtitulado)" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="🎬 | ANIME 24/7",One Piece (Subtitulado)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TVhTZndYTjI5U2NxaHZ6U3cyMzIzYz0
-#EXTINF:-1 tvg-id="" tvg-name="One Piece (Inglés) op1" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="🎬 | ANIME 24/7",One Piece (Inglés) op1
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SmV3R2szeHVIc2xlUVFOeWZtQnFCWT0
-#EXTINF:-1 tvg-id="" tvg-name="One Piece (Inglés) op2" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="🎬 | ANIME 24/7",One Piece (Inglés) op2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R0xJNmoxMXFVeDZEVnVZdk5uYlltVT0
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime (Inglés pelis)" tvg-logo="https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png" group-title="🎬 | ANIME 24/7",Pluto TV Anime (Inglés pelis)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R09Rc3A0Vy9rZ09DbVdabGlEQ1FSUT0
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! (Inglés)" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="🎬 | ANIME 24/7",Yu-Gi-Oh! (Inglés)
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RkExV0JDNGlqaS9KeVF6eTlOMUx4dz0
-#EXTINF:-1 tvg-id="" tvg-name="24-7 Dragon Ball" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="🎬 | 24/7 DRAGÓN BALL PREMIUM",24-7 Dragon Ball
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SlBTN2F0cU44NmVPY253dXJ1eEdiWT0
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Saga Sayajins" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="🎬 | 24/7 DRAGÓN BALL PREMIUM",24/7 Dragon Ball Z Saga Sayajins
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1BmdlFBemVPUVpzRFZNS2h6VU1jbz0
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Saga Androides" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="🎬 | 24/7 DRAGÓN BALL PREMIUM",24/7 Dragon Ball Z Saga Androides
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QWEvS1RTU3VLQkdnRHNRWllTVVRwbz0
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="🎬 | 24/7 DRAGÓN BALL PREMIUM",24/7 Dragon Ball Super
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T2NTMGVJZU5KOU16TFNPeVBiNUFEST0
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="🎬 | 24/7 DRAGÓN BALL PREMIUM",24/7 Dragon Ball GT
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QlFvZEVITWRTVXRlenVXU2M0Q1QzOD0
-#EXTINF:-1 tvg-id="" tvg-name="Tñt $p⚽rts hd" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",Tñt $p⚽rts hd
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RGZVcnlKaGpxbmVTRzlBaGxUYmJUUT0
-#EXTINF:-1 tvg-id="" tvg-name="TÑT $P⚽RTS SD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",TÑT $P⚽RTS SD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QVpqVlFVL2xCclBoRzM1SlRmOWxkST0
-#EXTINF:-1 tvg-id="" tvg-name="TYC SP⚽RTS HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",TYC SP⚽RTS HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T0lTMnh3VUZ4Y3NxcmtBNWQ3TzNwWT0
-#EXTINF:-1 tvg-id="" tvg-name="TYC SP⚽RTS SD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",TYC SP⚽RTS SD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q3Jva0JZTEJyOVdvYVRpNjQwY0FHOD0
-#EXTINF:-1 tvg-id="" tvg-name="E$PN PREMIUM HD." tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",E$PN PREMIUM HD.
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5THBiUUJ0MjFvSDlSYVVnSk14dHlvST0
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S3o2UDE5TzNCck9nNGcvM2pYVEhkRT0
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TnFxTHJodDdwaXFoZ0tXQXZyNkNFQT0
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN 2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RnNNeCs4Q2h4VzhlRmwxOUJzR3VDRT0
-#EXTINF:-1 tvg-id="" tvg-name="E$PN 3 HD." tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",E$PN 3 HD.
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RjYxRExVSXdZc0l4N01iZFNGeFk5Zz0
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN 3
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5STVtcU5RMjZwQVhleWtPbjF3NWV2TT0
-#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0RTS 1 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X $P0RTS 1 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q0xhb2l0WW5GUzVRU2R1eVArRGVIRT0
-#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0RTS 1 SD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X $P0RTS 1 SD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5THRVcVlnSW16WlFwdlVZS01PV1lOUT0
-#EXTINF:-1 tvg-id="" tvg-name="F⚽X $PORTS 2 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X $PORTS 2 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RHp4cUdBZHFNQTd5dGN1TVpWcTJ1bz0
-#EXTINF:-1 tvg-id="" tvg-name="F⚽X  $P0RTS 3 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X  $P0RTS 3 HD
+
+# CATEGORÍA: REALITY
+# ==========================================
+
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" group-title="Reality",GRAN HERMANO 24/7
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454926/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM1" group-title="Reality",GRAN HERMANO CAM1
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454927/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM2" group-title="Reality",GRAN HERMANO CAM2
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454928/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM3" group-title="Reality",GRAN HERMANO CAM3
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454929/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO" group-title="Reality",GRAN HERMANO
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454930/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO" group-title="Reality",GRAN HERMANO
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/453157/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: CINE Y SERIES
+# ==========================================
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" group-title="Cine y Series",HBO 1
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d6/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" group-title="Cine y Series",HBO 2
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d8/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" group-title="Cine y Series",HBO Plus
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d7/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" group-title="Cine y Series",HBO Family
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d9/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" group-title="Cine y Series",HBO POP
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0eq/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" group-title="Cine y Series",HBO Mundi
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0er/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" group-title="Cine y Series",HBO Xtreme
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0es/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" group-title="Cine y Series",HBO Signature
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0et/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" group-title="Cine y Series",Cinemax
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0by/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" group-title="Cine y Series",Star Channel HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ds/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" group-title="Cine y Series",Cinecanal HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0du/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="Cine y Series",TNT HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dw/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" group-title="Cine y Series",TNT Series HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dx/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" group-title="Cine y Series",TNT Novelas HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dz/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" group-title="Cine y Series",Sony HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ck/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" group-title="Cine y Series",Sony Movies HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cr/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" group-title="Cine y Series",Warner Channel HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cl/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" group-title="Cine y Series",AXN HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cm/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" group-title="Cine y Series",Universal HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cq/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" group-title="Cine y Series",Studio Universal
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fy/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" group-title="Cine y Series",USA Network
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fz/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="Cine y Series",FX HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fc/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" group-title="Cine y Series",Space HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fd/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="AMC" group-title="Cine y Series",AMC
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g8/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="AMC Series HD" group-title="Cine y Series",AMC Series HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ff/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" group-title="Cine y Series",Comedy Central HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fe/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" group-title="Cine y Series",Europa Europa
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dd/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TCM" group-title="Cine y Series",TCM
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fx/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Volver" group-title="Cine y Series",Volver
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fs/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cine.AR" group-title="Cine y Series",Cine.AR
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g9/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas" group-title="Cine y Series",TLNovelas
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0di/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="El Canal de las Estrellas" group-title="Cine y Series",El Canal de las Estrellas
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dh/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: CANALES DE AIRE Y NOTICIAS 1
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" group-title="Canales de Aire y Noticias",America TV HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cc/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD" group-title="Canales de Aire y Noticias",TV Publica HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cd/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica" group-title="Canales de Aire y Noticias",TV Publica
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gm/index.m3u8?device ki_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" group-title="Canales de Aire y Noticias",El Nueve HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ce/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="El Trece HD" group-title="Canales de Aire y Noticias",El Trece HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dt/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" group-title="Canales de Aire y Noticias",Telefe HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dv/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TN HD" group-title="Canales de Aire y Noticias",TN HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cf/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="A24" group-title="Canales de Aire y Noticias",A24
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g3/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="C5N" group-title="Canales de Aire y Noticias",C5N
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g4/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cronica" group-title="Canales de Aire y Noticias",Cronica
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g5/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="26TV" group-title="Canales de Aire y Noticias",26TV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g6/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="La Nacion TV" group-title="Canales de Aire y Noticias",La Nacion TV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ea/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Canal de la Ciudad" group-title="Canales de Aire y Noticias",Canal de la Ciudad
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cw/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" group-title="Canales de Aire y Noticias",CNN en Espanol
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cb/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="RT en Espanol" group-title="Canales de Aire y Noticias",RT en Espanol
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cx/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="La Tele (uy)" group-title="Canales de Aire y Noticias",La Tele (uy)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fu/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 (uy)" group-title="Canales de Aire y Noticias",Canal 4 (uy)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fv/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Saeta Canal 10 (uy)" group-title="Canales de Aire y Noticias",Saeta Canal 10 (uy)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fw/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: CANALES DSPORT1⚽
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ARGENTINA DSPORTS ✦●✦" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",✦●✦ ARGENTINA DSPORTS ✦●✦
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QjFVTHpyZERGSXRGYkZvQlI3WTNBWT0
+#EXTINF:-1 tvg-id="" tvg-name="DSports | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports | AR ❆
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SEZlWGFEbkRQVS9xcUx1bitjMlo1VT0
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports 2 | AR ❆
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1k2MmdWVEtYRUkyaEJKR3ZveE9BVT0
+#EXTINF:-1 tvg-id="" tvg-name="DSports + | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports + | AR ❆
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QkVTZVJvNDZ5Ti94VGpSK2szYjc1ND0
+#EXTINF:-1 tvg-id="" tvg-name="DSports | CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports | CO ❆
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1grY1pmcXRLakkrQVdLUC9oWEVXdz0
+#EXTINF:-1 tvg-id="" tvg-name="DSports + 2 CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports + 2 CO ❆
+# ==========================================
+# CATEGORÍA: CANALES DE AIRE2
+# ==========================================
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T3FxR3ZFQXYwYys0VFdLTEtuSmNWdz0
 #EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG : Canal 26 HD
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TkZXK2Mvd1Y2UkFxS2ovTGl1OTNVYz0
@@ -277,143 +206,100 @@ http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RjZtdkdMdENNQVZ5blVlNDlHT
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R0xUcm5KK2krWnV0OGcxekV2akMwWT0
 #EXTINF:-1 tvg-id="" tvg-name="ARG : DEPORTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="🇦🇷 | ARGENTINA",ARG : DEPORTV  HD
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TVRVSXVRanh0S0FUZlVqUGFHdzNVMD0
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 | ARGENTINA",CANAL 4
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TCtaTDhSRUdFRktLZHZ0SzRhYXV0bz0
-#EXTINF:-1 tvg-id="" tvg-name="Jujuy tv" tvg-logo="http://127.0.0.1/" group-title="🇦🇷 | ARGENTINA",Jujuy tv
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RWl0K21ja28vbWh3K3BvYkpzRldzUT0
 #EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| C5N HD
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TnZVT2RBRVNVSE4yeEJIellEYlk5bz0
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ARGENTINA DSPORTS ✦●✦" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",✦●✦ ARGENTINA DSPORTS ✦●✦
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QjFVTHpyZERGSXRGYkZvQlI3WTNBWT0
-#EXTINF:-1 tvg-id="" tvg-name="DSports | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports | AR ❆
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SEZlWGFEbkRQVS9xcUx1bitjMlo1VT0
-#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports 2 | AR ❆
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1k2MmdWVEtYRUkyaEJKR3ZveE9BVT0
-#EXTINF:-1 tvg-id="" tvg-name="DSports + | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports + | AR ❆
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QkVTZVJvNDZ5Ti94VGpSK2szYjc1ND0
-#EXTINF:-1 tvg-id="" tvg-name="DSports | CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports | CO ❆
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1grY1pmcXRLakkrQVdLUC9oWEVXdz0
-#EXTINF:-1 tvg-id="" tvg-name="DSports + 2 CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports + 2 CO ❆
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Minions y Monstruos (CAM) 2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg" group-title="▶️ CINE 2026",Minions y Monstruos (CAM) 2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRMU9ic3F2ZlR1dC9jSi9OaWFHSmgxZVdrbFNKZ2FURUlqWXFKYjJOck9jQQ
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg" group-title="▶️ CINE 2026",Toy Story 5 (BR-S) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRMU9ic3F2ZlR1dC9jSi9OaWFHSmgxZjZuOWFEaCt5bE9QY0ZCYUs3dGNGbw
-#EXTINF:-1 tvg-id="" tvg-name="Minions y Monstruos (CAM) 2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9THY3T4kn5D2rZhwwQ6t7XQtHtv.jpg" group-title="▶️ CINE 2026",Minions y Monstruos (CAM) 2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRMU9ic3F2ZlR1dC9jSi9OaWFHSmgxZXBWN08yWVRLMnBIWUFrT2tLeUJKcA
-#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="▶️ CINE 2026",El diablo viste a la moda 2 (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRMU9ic3F2ZlR1dC9jSi9OaWFHSmgxYzdta3VWK1FNdkVwM0ZnaUZ3WmtLVg
-#EXTINF:-1 tvg-id="" tvg-name="Torrente Presidente (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wyiEiOS8gYyslveyYwlCKB9XYt.jpg" group-title="▶️ CINE 2026",Torrente Presidente (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRK3pPd2ZITE9rdHVzR1pXUzNHNjlxQy9DUU9rNUhkVHpjb1lqSFVQZitiZw
-#EXTINF:-1 tvg-id="" tvg-name="Supergirl (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diEz9JG1UHEDTN0Yeri5sJZD7PL.jpg" group-title="▶️ CINE 2026",Supergirl (CAM) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpYXdlQ3ZXYW5tL2FnNzJFYmNVK1d4dQ
-#EXTINF:-1 tvg-id="" tvg-name="Las ovejas detectives (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iryjE7zrVxML5UM5vCPJGtKYvWC.jpg" group-title="▶️ CINE 2026",Las ovejas detectives (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWVhNSUlucFRPWncwVjN5VzZETjRoZQ
-#EXTINF:-1 tvg-id="" tvg-name="Obsesion (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg" group-title="▶️ CINE 2026",Obsesion (BR-S) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpYUlBd0t5d3RycGJKSU5EL2ZqRjR4Yw
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg" group-title="▶️ CINE 2026",Toy Story 5 (BR-S) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpYjVqV3pDWTV0RVF0Mnl1SCtZSmYzSQ
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Mandalorian and Grogu (BR-S) (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="▶️ CINE 2026",Star Wars: The Mandalorian and Grogu (BR-S) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWVZCRHpjRU1jcDJHZE1MTVlhaEpkcA
-#EXTINF:-1 tvg-id="" tvg-name="The Amazing Digital Circus: El Ultimo Acto (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufMZpIbrDpcUIBVYUUo4PKaMovC.jpg" group-title="▶️ CINE 2026",The Amazing Digital Circus: El Ultimo Acto (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpYXRHa2YvMkl2OGZ6UFhMY1pqMDdlcQ
-#EXTINF:-1 tvg-id="" tvg-name="Hokum: La maldicion de la bruja (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/thRJXNSUsqSNJALSKmXYNWSijB5.jpg" group-title="▶️ CINE 2026",Hokum: La maldicion de la bruja (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWjVPUldBNG5Hb21ZakdDRWFMa2xNVA
-#EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWWfKcQDldLgHQwXWakfE16D5vr.jpg" group-title="▶️ CINE 2026",Toy Story 5 (CAM) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWnZOUHJjVlA0WDI5QzIxVTNrT3I5Mw
-#EXTINF:-1 tvg-id="" tvg-name="Scary Movie: Terrorificamente incorrecta (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg" group-title="▶️ CINE 2026",Scary Movie: Terrorificamente incorrecta (BR-S) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN1hNNDZvaGVpQ2gwT0RnOHkwaytpWklCTC9JbXZvY1dETHkzc3dRSWsyTQ
-#EXTINF:-1 tvg-id="" tvg-name="Scary Movie: Terrorificamente incorrecta (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg" group-title="▶️ CINE 2026",Scary Movie: Terrorificamente incorrecta (CAM) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bUFDVmFCcUt4ZkZ1UVFNcUYyeWtrYg
-#EXTINF:-1 tvg-id="" tvg-name="El dia de la revelacion (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pigU63pWFuXkq2MBc865GpFG4UP.jpg" group-title="▶️ CINE 2026",El dia de la revelacion (CAM) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85a0Ezbjc1NVBIUWhyYk54c0FoOVd6WQ
-#EXTINF:-1 tvg-id="" tvg-name="Amos del Universo (BR-S) (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cDw6Qp3aNZ5x8hWZl35nR2qvMqk.jpg" group-title="▶️ CINE 2026",Amos del Universo (BR-S) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85a0NMVXR0TU1GTTRLZWNla1Y5RzZiZw
-#EXTINF:-1 tvg-id="" tvg-name="Obsesion (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg" group-title="▶️ CINE 2026",Obsesion (CAM) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bWFYQmtyTkxZOUltdzMyU2ErL2lsSQ
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="▶️ CINE 2026",Mortal Kombat II (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bEFwWW1WanZnemZmVEZFZTZZbUgxZA
-#EXTINF:-1 tvg-id="" tvg-name="Michael (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="▶️ CINE 2026",Michael (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bm1HT1RDZUJqYWsvU1BRa3h2OThCRg
-#EXTINF:-1 tvg-id="" tvg-name="Amos del Universo  (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDw6Qp3aNZ5x8hWZl35nR2qvMqk.jpg" group-title="▶️ CINE 2026",Amos del Universo  (CAM) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bGg5NWsyVi8wTUF5SGlZMDNYUXJXdQ
-#EXTINF:-1 tvg-id="" tvg-name="Zona de riesgo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3On2pUX6KRJwI8Fp7xqJkKQdIv.jpg" group-title="▶️ CINE 2026",Zona de riesgo (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bC9RcUpzYlB6WTB4cTZNOFlEMDNTbg
-#EXTINF:-1 tvg-id="" tvg-name="En la zona gris (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfgquGqeT6DtdsIzPPzTLRABBy0.jpg" group-title="▶️ CINE 2026",En la zona gris (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bmNVNmNib1pQYVVMa3ArWVVCalUrUA
-#EXTINF:-1 tvg-id="" tvg-name="Backrooms: Sin salida (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg" group-title="▶️ CINE 2026",Backrooms: Sin salida (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDZ3aHVma09IbjljTnJHc24xbW85bkR4Tld2U0dJdnVIcmlocnFLSEE3Tg
-#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian and Grogu (CAM) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSRaYCfsxgL8LWeBQOO4Syd5BQJ.jpg" group-title="▶️ CINE 2026",The Mandalorian and Grogu (CAM) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN3dGSW1SUjNtNmIveFIyZjBxUkx1dWpBYk1qUnUzL2FudExSc2lsRWMzVg
-#EXTINF:-1 tvg-id="" tvg-name="Scary Movie: Terroríficamente incorrecta (CAM) (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iYQnvP1DrgSaoSbYPuNCPr3TRqk.jpg" group-title="▶️ CINE 2026",Scary Movie: Terroríficamente incorrecta (CAM) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRN3dGSW1SUjNtNmIveFIyZjBxUkx1dkRidEF1cUZYdnc1cm1WbTlxRFJZbw
-#EXTINF:-1 tvg-id="" tvg-name="La posesion de la momia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="▶️ CINE 2026",La posesion de la momia (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRd0VWbUhXQW0wR1lXQzRYRHZ2aDlsYUdJVnpKQzdvOXFWVU9KN0ttbnUwTg
-#EXTINF:-1 tvg-id="" tvg-name="El Drama (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEdNEIO7641g6ZXJEe6zhQC4Jsj.jpg" group-title="▶️ CINE 2026",El Drama (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRd0VWbUhXQW0wR1lXQzRYRHZ2aDlsYWUzU0s5MXdvMTl0RXk3VXdFTWVhTg
-#EXTINF:-1 tvg-id="" tvg-name="La posesion de la momia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RhY8eHWzvjw32449pHdUkOeDCN.jpg" group-title="▶️ CINE 2026",La posesion de la momia (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNXNxUHFra3hvOEdGeWZiaVNnbkFpbkpBbmNDS3l4YThoYUsxaTBtVkRvRw
-#EXTINF:-1 tvg-id="" tvg-name="Kraken (subtitulada) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ExwomWgJoXBdY3u1Otiw2zY9wZ.jpg" group-title="▶️ CINE 2026",Kraken (subtitulada) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNXNxUHFra3hvOEdGeWZiaVNnbkFpbWpvQjhDVFQ2M0VJdWVSZE1XV0lpQw
-#EXTINF:-1 tvg-id="" tvg-name="Super Mario Galaxy: La pelicula (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BafQnaU3U0PL7pkDBaTmCA9EHE.jpg" group-title="▶️ CINE 2026",Super Mario Galaxy: La pelicula (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNXNxUHFra3hvOEdGeWZiaVNnbkFpbHVjVlo2dmhHZmpVbmMvcTBtZ0E4Tw
-#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg" group-title="▶️ CINE 2026",Proyecto Fin del Mundo (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRei9kUFdqRE5qc0dCYjJuai9lSjZzYnkzbkVVMXU5cEJuS1hJME1hMStFTg
-#EXTINF:-1 tvg-id="" tvg-name="Boda sangrienta 2 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQV0X354U142Cao8Be6eUt38spS.jpg" group-title="▶️ CINE 2026",Boda sangrienta 2 (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRei9kUFdqRE5qc0dCYjJuai9lSjZzYi9UV0IrRXE0QUdzK00za2tIcDZpMA
-#EXTINF:-1 tvg-id="" tvg-name="El Drama (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg" group-title="▶️ CINE 2026",El Drama (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhROFRnTG4zNGwxOWdTZWtMa09RdVQvdVFOaFp0REVHU0FudHptWWpuZ0o3Ng
-#EXTINF:-1 tvg-id="" tvg-name="El diablo viste a la moda 2 (HDTS) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdvPsRItlhErfKF8Y0f0wjnxUzz.jpg" group-title="▶️ CINE 2026",El diablo viste a la moda 2 (HDTS) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhROW12aHc1b3FrZG5Sd1BQMDFFNXJrUUhwaGNacXk1d0lWK1JtWG41NDRYOQ
-#EXTINF:-1 tvg-id="" tvg-name="Terror en Silent Hill: Regreso al infierno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4EiDq1lXEEJIc439BVzdreQZEX.jpg" group-title="▶️ CINE 2026",Terror en Silent Hill: Regreso al infierno (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhROXl2Rk8vS1A0bmlIMEpFMi8vUHN6Q3kxYU5DNVhLNGFDNHNIditJZDA0Qw
-#EXTINF:-1 tvg-id="" tvg-name="Los Extraños: Capítulo 3 (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3XWJwBfa4zzki6rkiBVu6vUX3aU.jpg" group-title="▶️ CINE 2026",Los Extraños: Capítulo 3 (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwamVWcWdYbDlYUDR0RUswWEZYaEM2SA
-#EXTINF:-1 tvg-id="" tvg-name="Exterminio: El templo de huesos (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6yUxfwcDYR0RRfbxwGA7rhwreWU.jpg" group-title="▶️ CINE 2026",Exterminio: El templo de huesos (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaEVzYnR2VWVJSG1VajdWR3dQckI4cA
-#EXTINF:-1 tvg-id="" tvg-name="Sin piedad (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg" group-title="▶️ CINE 2026",Sin piedad (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaTh2LzZ4OEFVUVB2eGNPd3BMR25rdg
-#EXTINF:-1 tvg-id="" tvg-name="La Empleada (2025)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title="▶️ CINE 2026",La Empleada (2025)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwZzloOEZUY2JKMFExRVpxTjQ0SS9PSg
-#EXTINF:-1 tvg-id="" tvg-name="Ballena Asesina (Subtitulada) (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg" group-title="▶️ CINE 2026",Ballena Asesina (Subtitulada) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaUJhai85RHRmalQvQTNQOE0yRDcxNQ
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja: En busca de los pantalones cuadrados (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s19EZefg4g1EOWx0zA11tQJjHe2.jpg" group-title="▶️ CINE 2026",Bob Esponja: En busca de los pantalones cuadrados (2025)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwallhYVZUSm42MDlYSjRnOXZXVVFabQ
-#EXTINF:-1 tvg-id="" tvg-name="Primate (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg" group-title="▶️ CINE 2026",Primate (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaDVwbVpBWmxoOU9COVF6b3o0Z3g2Uw
-#EXTINF:-1 tvg-id="" tvg-name="El Dia del Fin del Mundo: Migracion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="▶️ CINE 2026",El Dia del Fin del Mundo: Migracion (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwamZLcXlaQjM5TDY2ZEZwQXhKb3J3Mw
-#EXTINF:-1 tvg-id="" tvg-name="Song Sung Blue: Sueño inquebrantable (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Dv7zkEzH7xLFE9Mj87kS1d37iq.jpg" group-title="▶️ CINE 2026",Song Sung Blue: Sueño inquebrantable (2025)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRME1NMEFyRE4xZ0VwVm90Wkl6ODdwaGxFS3U1dUdzVDQzU2RvWTNLak85YQ
-#EXTINF:-1 tvg-id="" tvg-name="¡La novia! (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg" group-title="▶️ CINE 2026",¡La novia! (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReWd6bmx4a04zS0JqMzRIRjBXbGoxYk1yUE1iUTk1KzZUOE52aTdZVTk5dg
-#EXTINF:-1 tvg-id="" tvg-name="Jugada maestra (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kI6OIy47E7hr9OOESV1DUDuBkqT.jpg" group-title="▶️ CINE 2026",Jugada maestra (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNzB0VUdlWlNHbHl4KzRnaEtrNDY4aFV4WVZCeHg4cVpiMFZyeUFLTkh6SA
-#EXTINF:-1 tvg-id="" tvg-name="“Cumbres Borrascosas” (2026)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="▶️ CINE 2026",“Cumbres Borrascosas” (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNzB0VUdlWlNHbHl4KzRnaEtrNDY4aDA0U09PaWllbmlHSjl4U0VhTDlpNQ
-#EXTINF:-1 tvg-id="" tvg-name="Caminos del crimen (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miotpWL3RXeTvLJnkhaoWcbXvJf.jpg" group-title="▶️ CINE 2026",Caminos del crimen (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNzB0VUdlWlNHbHl4KzRnaEtrNDY4Z3VtSHhmckFrb2docHFEVVZQYXkvSQ
-#EXTINF:-1 tvg-id="" tvg-name="Scream 7 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XhV5Sk7w4h2tCNvXovkFfTNRli.jpg" group-title="▶️ CINE 2026",Scream 7 (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRNzB0VUdlWlNHbHl4KzRnaEtrNDY4aUZtTnlsL0NlT1ltU3kxaGVMcHQrUg
-#EXTINF:-1 tvg-id="" tvg-name="Jugada maestra (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kI6OIy47E7hr9OOESV1DUDuBkqT.jpg" group-title="▶️ CINE 2026",Jugada maestra (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XMU9kY09JMnQxK0F4YjIybndMMTNIWg
-#EXTINF:-1 tvg-id="" tvg-name="GOAT: La cabra que cambio el juego (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dH7p6eAfzDElYYFKfYWpf9xlsG.jpg" group-title="▶️ CINE 2026",GOAT: La cabra que cambio el juego (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XMzZoT2xRbmhLdlF3YkdTZmJTWUt4Lw
-#EXTINF:-1 tvg-id="" tvg-name="Jugada maestra (Subt.) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kI6OIy47E7hr9OOESV1DUDuBkqT.jpg" group-title="▶️ CINE 2026",Jugada maestra (Subt.) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XM0RKbkRTVnF1ZjZtS0RFeWdUSXhZZg
-#EXTINF:-1 tvg-id="" tvg-name="¡Ayuda! (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzM7ixyJvqvW4le3SHYq8JsqGMK.jpg" group-title="▶️ CINE 2026",¡Ayuda! (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XMExrbkVWekdZSndjZTZGTkovWUhldg
-#EXTINF:-1 tvg-id="" tvg-name="El Dia del Fin del Mundo: Migracion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuKUs5efZ5rPfJRbOJtJXaqLNk0.jpg" group-title="▶️ CINE 2026",El Dia del Fin del Mundo: Migracion (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReDRnK2xFTGR4V1BvSmRjM2ozOE1XMlQ3cTRNZ0RqUVlMeC9WWFhsVFFrSA
-#EXTINF:-1 tvg-id="" tvg-name="Hoppers: Operacion castor (BR-S) (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg" group-title="▶️ CINE 2026",Hoppers: Operacion castor (BR-S) (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhReGM1T0Izb2NaMDE1NEo0UEw1ZHNWV05mWGVFNnY0TkFXcGVweHh4dyt5dQ
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Extincion (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aioKGmYADqq09GEIY9vPhK5xoza.jpg" group-title="▶️ CINE 2026",Alerta Extincion (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwSXQyY3hsY2Y1TlR1RFRyc1I4T2Fmcg
-#EXTINF:-1 tvg-id="" tvg-name="El Guardian: Ultimo refugio (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="▶️ CINE 2026",El Guardian: Ultimo refugio (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwS2ZtNjNYejcxRW1mWUdFR0FOa3hLMA
-#EXTINF:-1 tvg-id="" tvg-name="El sonido de la muerte (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cApRXj6meulAQMYQrhjfVvZEItl.jpg" group-title="▶️ CINE 2026",El sonido de la muerte (2026)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwSTlsandBa0xYN3FEZWRmS1VxblJxbg
-#EXTINF:-1 tvg-id="" tvg-name="Nuremberg: El juicio del siglo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggYGgsXV7jG42t2UhYx5mWA1tao.jpg" group-title="▶️ CINE 2026",Nuremberg: El juicio del siglo (2025)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwSS9ucHptZXlEMXkvNllMVjVZS2drSA
-#EXTINF:-1 tvg-id="" tvg-name="Marty Supremo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jctiZ1I2p4b6mceR85QxYhgs4Ft.jpg" group-title="▶️ CINE 2026",Marty Supremo (2025)
-http://libertadtv.lat:8080/aHR3NTJSQlpWT3QrbWp5NldBaVhRM0RBbUl0TDJUWS85VHFCcUFHLzNwS09hODBIRHUyTC9nK2p1bEc0bDl0cw
+# ==========================================
+# CATEGORÍA: CANALES DE DEPORTE⚽
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="Tñt $p⚽rts hd" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",Tñt $p⚽rts hd
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RGZVcnlKaGpxbmVTRzlBaGxUYmJUUT0
+#EXTINF:-1 tvg-id="" tvg-name="TÑT $P⚽RTS SD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",TÑT $P⚽RTS SD
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QVpqVlFVL2xCclBoRzM1SlRmOWxkST0
+#EXTINF:-1 tvg-id="" tvg-name="TYC SP⚽RTS HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",TYC SP⚽RTS HD
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T0lTMnh3VUZ4Y3NxcmtBNWQ3TzNwWT0
+#EXTINF:-1 tvg-id="" tvg-name="TYC SP⚽RTS SD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",TYC SP⚽RTS SD
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q3Jva0JZTEJyOVdvYVRpNjQwY0FHOD0
+#EXTINF:-1 tvg-id="" tvg-name="E$PN PREMIUM HD." tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",E$PN PREMIUM HD.
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5THBiUUJ0MjFvSDlSYVVnSk14dHlvST0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S3o2UDE5TzNCck9nNGcvM2pYVEhkRT0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TnFxTHJodDdwaXFoZ0tXQXZyNkNFQT0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN 2
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RnNNeCs4Q2h4VzhlRmwxOUJzR3VDRT0
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 3 HD." tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",E$PN 3 HD.
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RjYxRExVSXdZc0l4N01iZFNGeFk5Zz0
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN 3
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5STVtcU5RMjZwQVhleWtPbjF3NWV2TT0
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0RTS 1 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X $P0RTS 1 HD
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q0xhb2l0WW5GUzVRU2R1eVArRGVIRT0
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0RTS 1 SD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X $P0RTS 1 SD
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5THRVcVlnSW16WlFwdlVZS01PV1lOUT0
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X $PORTS 2 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X $PORTS 2 HD
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RHp4cUdBZHFNQTd5dGN1TVpWcTJ1bz0
+#EXTINF:-1 tvg-id="" tvg-name="F⚽X  $P0RTS 3 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X  $P0RTS 3 HD
+# ==========================================
+# CATEGORÍA: CANALES DE DEPORTE⚽⚽
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD" group-title="Deportes",ESPN 1 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ch/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" group-title="Deportes",ESPN 1
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gq/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" group-title="Deportes",ESPN 2 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cg/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" group-title="Deportes",ESPN 2
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gp/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" group-title="Deportes",ESPN 3 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ci/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" group-title="Deportes",ESPN 3
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gr/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" group-title="Deportes",ESPN 4 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dp/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" group-title="Deportes",ESPN Premium HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dr/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" group-title="Deportes",Fox Sports 1 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dq/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" group-title="Deportes",Fox Sports 1
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gw/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" group-title="Deportes",Fox Sports 2 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cj/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" group-title="Deportes",Fox Sports 2
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gs/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" group-title="Deportes",Fox Sports 3 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fa/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" group-title="Deportes",TyC Sports HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ft/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" group-title="Deportes",TNT Sports HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g0/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="DeporTV" group-title="Deportes",DeporTV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cz/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="AM Sports" group-title="Deportes",AM Sports
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g7/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="DSports 1 HD (ar)" group-title="Deportes",DSports 1 HD (ar)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0h6/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 HD (ar)" group-title="Deportes",DSports 2 HD (ar)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0h4/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 1 HD (ar)" group-title="Deportes",Eventos 1 HD (ar)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dl/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 2 HD (ar)" group-title="Deportes",Eventos 2 HD (ar)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dm/index.m3u8?device_id=de42beac5341
+# ==========================================
+# CATEGORÍA: INFANTILES
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" group-title="Infantiles",Disney Junior
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0c4/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" group-title="Infantiles",Disney Channel HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0f8/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" group-title="Infantiles",Nickelodeon
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0c5/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" group-title="Infantiles",Nick Jr
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dc/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" group-title="Infantiles",Discovery Kids
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0db/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" group-title="Infantiles",Cartoon Network HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dn/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" group-title="Infantiles",Baby TV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gb/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Pakapaka" group-title="Infantiles",Pakapaka
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g2/index.m3u8?device_id=de42beac5341
+
