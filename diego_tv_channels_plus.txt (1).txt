@@ -283,3 +283,14 @@ http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TCtaTDhSRUdFRktLZHZ0SzRhY
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RWl0K21ja28vbWh3K3BvYkpzRldzUT0
 #EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| C5N HD
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TnZVT2RBRVNVSE4yeEJIellEYlk5bz0
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ARGENTINA DSPORTS ✦●✦" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",✦●✦ ARGENTINA DSPORTS ✦●✦
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QjFVTHpyZERGSXRGYkZvQlI3WTNBWT0
+#EXTINF:-1 tvg-id="" tvg-name="DSports | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports | AR ❆
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SEZlWGFEbkRQVS9xcUx1bitjMlo1VT0
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports 2 | AR ❆
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1k2MmdWVEtYRUkyaEJKR3ZveE9BVT0
+#EXTINF:-1 tvg-id="" tvg-name="DSports + | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports + | AR ❆
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QkVTZVJvNDZ5Ti94VGpSK2szYjc1ND0
+#EXTINF:-1 tvg-id="" tvg-name="DSports | CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports | CO ❆
+http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1grY1pmcXRLakkrQVdLUC9oWEVXdz0
+#EXTINF:-1 tvg-id="" tvg-name="DSports + 2 CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports + 2 CO ❆
