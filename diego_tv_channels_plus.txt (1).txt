@@ -1,5 +1,5 @@
 
-# CATEGORÍA: REALITY
+# CATEGORÍA: REALITY GRAN HERMANO 
 # ==========================================
 
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" group-title="Reality",GRAN HERMANO 24/7
@@ -85,7 +85,7 @@ http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0di/index.m3u8?device_id=de42be
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dh/index.m3u8?device_id=de42beac5341
 
 # ==========================================
-# CATEGORÍA: CANALES DE AIRE Y NOTICIAS 1
+# CATEGORÍA: CANALES DE AIRE Y NOTICIAS ✦●✦ ARGENTINA 
 # ==========================================
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" group-title="Canales de Aire y Noticias",America TV HD
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cc/index.m3u8?device_id=de42beac5341
@@ -125,7 +125,7 @@ http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fv/index.m3u8?device_id=de42be
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fw/index.m3u8?device_id=de42beac5341
 
 # ==========================================
-# CATEGORÍA: CANALES DSPORT1⚽
+# CATEGORÍA: CANALES DSPORT ⚽✦●✦ ARGENTINA 
 # ==========================================
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ ARGENTINA DSPORTS ✦●✦" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",✦●✦ ARGENTINA DSPORTS ✦●✦
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QjFVTHpyZERGSXRGYkZvQlI3WTNBWT0
@@ -209,7 +209,7 @@ http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TVRVSXVRanh0S0FUZlVqUGFHd
 #EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| C5N HD
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TnZVT2RBRVNVSE4yeEJIellEYlk5bz0
 # ==========================================
-# CATEGORÍA: CANALES DE DEPORTE⚽
+# CATEGORÍA: CANALES DE DEPORTE⚽✦●✦ ARGENTINA 
 # ==========================================
 #EXTINF:-1 tvg-id="" tvg-name="Tñt $p⚽rts hd" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",Tñt $p⚽rts hd
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RGZVcnlKaGpxbmVTRzlBaGxUYmJUUT0
@@ -239,7 +239,7 @@ http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5THRVcVlnSW16WlFwdlVZS01PV
 http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RHp4cUdBZHFNQTd5dGN1TVpWcTJ1bz0
 #EXTINF:-1 tvg-id="" tvg-name="F⚽X  $P0RTS 3 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X  $P0RTS 3 HD
 # ==========================================
-# CATEGORÍA: CANALES DE DEPORTE⚽⚽
+# CATEGORÍA: CANALES DE DEPORTE⚽⚽✦●✦ ARGENTINA 
 # ==========================================
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD" group-title="Deportes",ESPN 1 HD
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ch/index.m3u8?device_id=de42beac5341
@@ -284,7 +284,7 @@ http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dl/index.m3u8?device_id=de42be
 #EXTINF:-1 tvg-id="" tvg-name="Eventos 2 HD (ar)" group-title="Deportes",Eventos 2 HD (ar)
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dm/index.m3u8?device_id=de42beac5341
 # ==========================================
-# CATEGORÍA: INFANTILES
+# CATEGORÍA: INFANTILES✦●✦ ARGENTINA 
 # ==========================================
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" group-title="Infantiles",Disney Junior
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0c4/index.m3u8?device_id=de42beac5341
