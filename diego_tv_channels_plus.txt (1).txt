@@ -2,7 +2,15 @@
 # CATEGORÍA: REALITY GRAN HERMANO 
 # ==========================================
 
-
+# ==========================================
+# CATEGORÍA: ADULTOS
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-title="Adultos",Playboy
+http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0fp/index.m3u8?device_id=4796ac1e4160
+#EXTINF:-1 tvg-id="" tvg-name="Venus" group-title="Adultos",Venus
+http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0fq/index.m3u8?device_id=4796ac1e4160
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" group-title="Adultos",Sextreme
+http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0fr/index.m3u8?device_id=4796ac1e4160
 
 # ==========================================
 # CATEGORÍA: CINE Y SERIES
