@@ -2,304 +2,31 @@
 # CATEGORÍA: REALITY GRAN HERMANO 
 # ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" group-title="Reality",GRAN HERMANO 24/7
-http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454926/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM1" group-title="Reality",GRAN HERMANO CAM1
-http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454927/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM2" group-title="Reality",GRAN HERMANO CAM2
-http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454928/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM3" group-title="Reality",GRAN HERMANO CAM3
-http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454929/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO" group-title="Reality",GRAN HERMANO
-http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454930/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO" group-title="Reality",GRAN HERMANO
-http://oscam281w.ooguy.com:5000/lucho/1234/Reality/453157/index.m3u8?device_id=de42beac5341
+
 
 # ==========================================
 # CATEGORÍA: CINE Y SERIES
 # ==========================================
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1" group-title="Cine y Series",HBO 1
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d6/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" group-title="Cine y Series",HBO 2
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d8/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" group-title="Cine y Series",HBO Plus
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d7/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" group-title="Cine y Series",HBO Family
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d9/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" group-title="Cine y Series",HBO POP
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0eq/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" group-title="Cine y Series",HBO Mundi
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0er/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" group-title="Cine y Series",HBO Xtreme
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0es/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" group-title="Cine y Series",HBO Signature
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0et/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" group-title="Cine y Series",Cinemax
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0by/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" group-title="Cine y Series",Star Channel HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ds/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" group-title="Cine y Series",Cinecanal HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0du/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="Cine y Series",TNT HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dw/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" group-title="Cine y Series",TNT Series HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dx/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" group-title="Cine y Series",TNT Novelas HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dz/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Sony HD" group-title="Cine y Series",Sony HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ck/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" group-title="Cine y Series",Sony Movies HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cr/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" group-title="Cine y Series",Warner Channel HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cl/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" group-title="Cine y Series",AXN HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cm/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Universal HD" group-title="Cine y Series",Universal HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cq/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" group-title="Cine y Series",Studio Universal
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fy/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="USA Network" group-title="Cine y Series",USA Network
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fz/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="Cine y Series",FX HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fc/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" group-title="Cine y Series",Space HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fd/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="AMC" group-title="Cine y Series",AMC
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g8/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="AMC Series HD" group-title="Cine y Series",AMC Series HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ff/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" group-title="Cine y Series",Comedy Central HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fe/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" group-title="Cine y Series",Europa Europa
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dd/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TCM" group-title="Cine y Series",TCM
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fx/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Volver" group-title="Cine y Series",Volver
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fs/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Cine.AR" group-title="Cine y Series",Cine.AR
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g9/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TLNovelas" group-title="Cine y Series",TLNovelas
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0di/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="El Canal de las Estrellas" group-title="Cine y Series",El Canal de las Estrellas
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dh/index.m3u8?device_id=de42beac5341
+
 
 # ==========================================
 # CATEGORÍA: CANALES DE AIRE Y NOTICIAS ✦●✦ ARGENTINA 
 # ==========================================
-#EXTINF:-1 tvg-id="" tvg-name="America TV HD" group-title="Canales de Aire y Noticias",America TV HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cc/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD" group-title="Canales de Aire y Noticias",TV Publica HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cd/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TV Publica" group-title="Canales de Aire y Noticias",TV Publica
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gm/index.m3u8?device ki_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" group-title="Canales de Aire y Noticias",El Nueve HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ce/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="El Trece HD" group-title="Canales de Aire y Noticias",El Trece HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dt/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" group-title="Canales de Aire y Noticias",Telefe HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dv/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TN HD" group-title="Canales de Aire y Noticias",TN HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cf/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="A24" group-title="Canales de Aire y Noticias",A24
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g3/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="C5N" group-title="Canales de Aire y Noticias",C5N
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g4/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Cronica" group-title="Canales de Aire y Noticias",Cronica
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g5/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="26TV" group-title="Canales de Aire y Noticias",26TV
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g6/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="La Nacion TV" group-title="Canales de Aire y Noticias",La Nacion TV
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ea/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Canal de la Ciudad" group-title="Canales de Aire y Noticias",Canal de la Ciudad
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cw/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" group-title="Canales de Aire y Noticias",CNN en Espanol
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cb/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="RT en Espanol" group-title="Canales de Aire y Noticias",RT en Espanol
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cx/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="La Tele (uy)" group-title="Canales de Aire y Noticias",La Tele (uy)
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fu/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 (uy)" group-title="Canales de Aire y Noticias",Canal 4 (uy)
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fv/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Saeta Canal 10 (uy)" group-title="Canales de Aire y Noticias",Saeta Canal 10 (uy)
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fw/index.m3u8?device_id=de42beac5341
 
 # ==========================================
 # CATEGORÍA: CANALES DSPORT ⚽✦●✦ ARGENTINA 
 # ==========================================
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ARGENTINA DSPORTS ✦●✦" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",✦●✦ ARGENTINA DSPORTS ✦●✦
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QjFVTHpyZERGSXRGYkZvQlI3WTNBWT0
-#EXTINF:-1 tvg-id="" tvg-name="DSports | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports | AR ❆
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SEZlWGFEbkRQVS9xcUx1bitjMlo1VT0
-#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports 2 | AR ❆
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1k2MmdWVEtYRUkyaEJKR3ZveE9BVT0
-#EXTINF:-1 tvg-id="" tvg-name="DSports + | AR ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports + | AR ❆
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QkVTZVJvNDZ5Ti94VGpSK2szYjc1ND0
-#EXTINF:-1 tvg-id="" tvg-name="DSports | CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports | CO ❆
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1grY1pmcXRLakkrQVdLUC9oWEVXdz0
-#EXTINF:-1 tvg-id="" tvg-name="DSports + 2 CO ❆" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9g6A0vh_OOEW2aCaidh0rfEjA6bLFke0dG1_W2RWBsw469ccs9B9278_SEMB8km107YA378Y4ysiggaseQjh6ba8Qf6QCrP7G8PlhTJxFbavWaBo3ckrLmFy6L530kIiMuVYV3PLCrsY/s1280/image.png" group-title="⚽ |  DSPORTS",DSports + 2 CO ❆
+
 # ==========================================
 # CATEGORÍA: CANALES DE AIRE2
 # ==========================================
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T3FxR3ZFQXYwYys0VFdLTEtuSmNWdz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG : Canal 26 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TkZXK2Mvd1Y2UkFxS2ovTGl1OTNVYz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG : Canal 26 FHD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UDFtV2dnVWh3cGlpTEdWNjU5YndLcz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| AMERICA TV HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5REx5Z2NwaTFJR0dFZlB5dUpJUHFXQT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| AMERICA FHD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R1dNUXdYbVZrd0s2dk9zQWtVYXVORT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="🇦🇷 | ARGENTINA",ARG| EL NUEVE HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TXdqcE5hQmZTYXcxNXlwT2Nwc2Z0UT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qG7zT4QQ1cODhHVRNuw45yRTWjE-PEL9uw&s" group-title="🇦🇷 | ARGENTINA",ARG| EL NUEVE FHD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QlJadWZQVStXaEtDZEJkejVlQkxyVT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| EL TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/640px-Telefe_%28nuevo_logo%29.png" group-title="🇦🇷 | ARGENTINA",ARG| EL TELEFE HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TXNXa3c5MGVsMG5xRjBISm1HdzI4UT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="🇦🇷 | ARGENTINA",ARG| TELEFE SD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T0RnVEs3TVIxK2ttMmRNQzI5aVNmTT0
-#EXTINF:-1 tvg-id="" tvg-name="AR: EL TRECE" tvg-logo="http://flx.lat:8080/images/fa016b4219f079b9bba349fd30ed9351.jpg" group-title="🇦🇷 | ARGENTINA",AR: EL TRECE
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RmFlaFYzaEtrWGhObnJ1cGd1ZkJQdz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TRECE  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="🇦🇷 | ARGENTINA",ARG| TRECE  FHD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q1pqUzU4UTJNNWRFcTdhQ3RiUlkyTT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| 24/7 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuUz1rkJ6uwa6IUeYmvoJvXWXn5VhjVNeAsA&s" group-title="🇦🇷 | ARGENTINA",ARG| 24/7 NOTICIAS HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SUNsNWx1M0c0VmQzMEl2MHNxUUsxRT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| LA NACION HD" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/05/la-nacion-vector-logo.png" group-title="🇦🇷 | ARGENTINA",ARG| LA NACION HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R2lLZVJNVFAwUEw3K0FjWG9sVmtoWT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| VOLVER HD" tvg-logo="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo-thumbnail.png" group-title="🇦🇷 | ARGENTINA",ARG| VOLVER HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SlovNGVPZWpmc0x6V3JMQjNxSE1Xbz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="🇦🇷 | ARGENTINA",ARG| CANAL 10 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UGdrMU1mR1h4WHhrWkVjaWFiczRUYz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CINEAR  HD" tvg-logo="https://images.seeklogo.com/logo-png/46/1/cinear-logo-png_seeklogo-462536.png" group-title="🇦🇷 | ARGENTINA",ARG| CINEAR  HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QkxnaUJYL3BHSUZwczhvZXpJWmVrQT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TN NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| TN NOTICIAS HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Rkt2UW1GdEZuTWRmSjh3WUI2M0gzdz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CRONICA HD" tvg-logo="https://i.pinimg.com/736x/55/b0/a1/55b0a138943b0c8f4f16253b75baf09a.jpg" group-title="🇦🇷 | ARGENTINA",ARG| CRONICA HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5REtGeVl5QTEvUlU3NmRVYjNFaVFqcz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| A24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQflil18QOJFwvAk5RA_ihMoJb2HMx68Ta0A&s" group-title="🇦🇷 | ARGENTINA",ARG| A24 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TVpTbXBjenV3VzVycWhTMGNUb3ViQT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CN23 HD" tvg-logo="https://w7.pngwing.com/pngs/981/940/png-transparent-argentina-national-football-team-hd-logo.png" group-title="🇦🇷 | ARGENTINA",ARG| CN23 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TkMvZmxsdjlrSDFUYk1jYncxY1RZZz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| ENCUENTRO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXokMAG55aOfeG2q3mJqp6W6IW5nfBIVzs7Q&s" group-title="🇦🇷 | ARGENTINA",ARG| ENCUENTRO HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q01Fb1J1Tml5bi9FM3crUnNndDdnOD0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="🇦🇷 | ARGENTINA",ARG| CANAL 26 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TGIzbC8yZEJaWGczeW54dGlVMzVYUT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TV PUBLICA  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png" group-title="🇦🇷 | ARGENTINA",ARG| TV PUBLICA  HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S3hZdksvUGlKVURpcm5yeG9QcE5GRT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| GARAGE  HD" tvg-logo="https://e7.pngegg.com/pngimages/926/901/png-clipart-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem.png" group-title="🇦🇷 | ARGENTINA",ARG| GARAGE  HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5UGJ1L1RKcTJjN0xYYWVEK0Z0Wm5pST0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| LA PAMPA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Arpampa.PNG" group-title="🇦🇷 | ARGENTINA",ARG| LA PAMPA TV HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TVFYZFphMHRrVUE2SXlYSUhoQU1FOD0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| 13 MAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuvMkH98cyGWcC1yCPXSHGeDsyfsJLkgkn0aBPEQ0SsQ&s" group-title="🇦🇷 | ARGENTINA",ARG| 13 MAX HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5STJSdHp3ZHNsUFVGYXdWT243YUJNST0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| ESTRELLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="🇦🇷 | ARGENTINA",ARG| ESTRELLA TV HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5SW4wOVRIa2QyRGhRalVXT0QxWUlvVT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 22 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Canal_22_Logo_2011.jpg" group-title="🇦🇷 | ARGENTINA",ARG| CANAL 22 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RStDZ3VSQWE1Z0VUdjBGMVFMR3F5cz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png" group-title="🇦🇷 | ARGENTINA",ARG | TNT SPORTS  FHD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T0Iva2FvbFFIbGt5cFBqQXIrZFpwZz0
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="🇦🇷 | ARGENTINA",ARG I T&C SPORTS SD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T1owWHVVVm9ZZ3JhU2QrU3hLZHF5UT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS INTERNA." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="🇦🇷 | ARGENTINA",ARG I T&C SPORTS INTERNA.
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RjZtdkdMdENNQVZ5blVlNDlHT0lPOD0
-#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdN7GXiGqwJdk_GgdcKbF6G4UQHcCRV86qVw&s" group-title="🇦🇷 | ARGENTINA",ARG I T&C SPORTS  HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5R0xUcm5KK2krWnV0OGcxekV2akMwWT0
-#EXTINF:-1 tvg-id="" tvg-name="ARG : DEPORTV  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="🇦🇷 | ARGENTINA",ARG : DEPORTV  HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TVRVSXVRanh0S0FUZlVqUGFHdzNVMD0
-#EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="🇦🇷 | ARGENTINA",ARG| C5N HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TnZVT2RBRVNVSE4yeEJIellEYlk5bz0
-# ==========================================
-# CATEGORÍA: CANALES DE DEPORTE⚽✦●✦ ARGENTINA 
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-name="Tñt $p⚽rts hd" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",Tñt $p⚽rts hd
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RGZVcnlKaGpxbmVTRzlBaGxUYmJUUT0
-#EXTINF:-1 tvg-id="" tvg-name="TÑT $P⚽RTS SD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",TÑT $P⚽RTS SD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5QVpqVlFVL2xCclBoRzM1SlRmOWxkST0
-#EXTINF:-1 tvg-id="" tvg-name="TYC SP⚽RTS HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",TYC SP⚽RTS HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5T0lTMnh3VUZ4Y3NxcmtBNWQ3TzNwWT0
-#EXTINF:-1 tvg-id="" tvg-name="TYC SP⚽RTS SD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",TYC SP⚽RTS SD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q3Jva0JZTEJyOVdvYVRpNjQwY0FHOD0
-#EXTINF:-1 tvg-id="" tvg-name="E$PN PREMIUM HD." tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",E$PN PREMIUM HD.
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5THBiUUJ0MjFvSDlSYVVnSk14dHlvST0
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5S3o2UDE5TzNCck9nNGcvM2pYVEhkRT0
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5TnFxTHJodDdwaXFoZ0tXQXZyNkNFQT0
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN 2
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RnNNeCs4Q2h4VzhlRmwxOUJzR3VDRT0
-#EXTINF:-1 tvg-id="" tvg-name="E$PN 3 HD." tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",E$PN 3 HD.
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RjYxRExVSXdZc0l4N01iZFNGeFk5Zz0
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",ESPN 3
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5STVtcU5RMjZwQVhleWtPbjF3NWV2TT0
-#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0RTS 1 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X $P0RTS 1 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5Q0xhb2l0WW5GUzVRU2R1eVArRGVIRT0
-#EXTINF:-1 tvg-id="" tvg-name="F⚽X $P0RTS 1 SD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X $P0RTS 1 SD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5THRVcVlnSW16WlFwdlVZS01PV1lOUT0
-#EXTINF:-1 tvg-id="" tvg-name="F⚽X $PORTS 2 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X $PORTS 2 HD
-http://libertadtv.lat:8080/QUxtWWh4d0NmdUM4R21iZU5uRFB5RHp4cUdBZHFNQTd5dGN1TVpWcTJ1bz0
-#EXTINF:-1 tvg-id="" tvg-name="F⚽X  $P0RTS 3 HD" tvg-logo="http://127.0.0.1/" group-title="⚽ DEPORTES ARGENTINA 🇦🇷",F⚽X  $P0RTS 3 HD
+
 # ==========================================
 # CATEGORÍA: CANALES DE DEPORTE⚽⚽✦●✦ ARGENTINA 
 # ==========================================
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD" group-title="Deportes",ESPN 1 HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ch/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" group-title="Deportes",ESPN 1
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gq/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" group-title="Deportes",ESPN 2 HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cg/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" group-title="Deportes",ESPN 2
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gp/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" group-title="Deportes",ESPN 3 HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ci/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" group-title="Deportes",ESPN 3
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gr/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" group-title="Deportes",ESPN 4 HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dp/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" group-title="Deportes",ESPN Premium HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dr/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" group-title="Deportes",Fox Sports 1 HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dq/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" group-title="Deportes",Fox Sports 1
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gw/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" group-title="Deportes",Fox Sports 2 HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cj/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" group-title="Deportes",Fox Sports 2
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gs/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" group-title="Deportes",Fox Sports 3 HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fa/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" group-title="Deportes",TyC Sports HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ft/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" group-title="Deportes",TNT Sports HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g0/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="DeporTV" group-title="Deportes",DeporTV
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cz/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="AM Sports" group-title="Deportes",AM Sports
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g7/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="DSports 1 HD (ar)" group-title="Deportes",DSports 1 HD (ar)
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0h6/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="DSports 2 HD (ar)" group-title="Deportes",DSports 2 HD (ar)
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0h4/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 1 HD (ar)" group-title="Deportes",Eventos 1 HD (ar)
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dl/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Eventos 2 HD (ar)" group-title="Deportes",Eventos 2 HD (ar)
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dm/index.m3u8?device_id=de42beac5341
+
 # ==========================================
 # CATEGORÍA: INFANTILES✦●✦ ARGENTINA 
 # ==========================================
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" group-title="Infantiles",Disney Junior
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0c4/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" group-title="Infantiles",Disney Channel HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0f8/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" group-title="Infantiles",Nickelodeon
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0c5/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" group-title="Infantiles",Nick Jr
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dc/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" group-title="Infantiles",Discovery Kids
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0db/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" group-title="Infantiles",Cartoon Network HD
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dn/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" group-title="Infantiles",Baby TV
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gb/index.m3u8?device_id=de42beac5341
-#EXTINF:-1 tvg-id="" tvg-name="Pakapaka" group-title="Infantiles",Pakapaka
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g2/index.m3u8?device_id=de42beac5341
 
